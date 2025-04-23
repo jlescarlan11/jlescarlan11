@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=John%20Lester%20Escarlan&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -38,13 +37,11 @@ Tech: React · TypeScript · Vite · Tailwind
 ### 📈 GitHub Analytics
 <div align="center">
   <a href="https://github.com/jlescarlan11">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jlescarlan11&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="165em" src=""/>
-    <img height="165em" src="https://nirzak-streak-stats.vercel.app/?user=jlescarlan11&theme=dark&hide_border=false"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jlescarlan11&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&random=12345"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlescarlan11&layout=compact&theme=vision-friendly-dark&random=12345"/>
+    <img height="165em" src="https://nirzak-streak-stats.vercel.app/?user=jlescarlan11&theme=dark&hide_border=false&random=12345"/>
   </a>
 </div>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=jlescarlan11&layout=compact&theme=vision-friendly-dark
 
 ### 🎓 Education
 **BSc Mathematics** @ University of the Philippines (2022-2026)  
@@ -73,12 +70,5 @@ const buildSolution = (problem: ComplexProblem): ElegantCode => {
   return cleanArchitecture;
 }
 ```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jlescarlan11&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-*⚡ Beyond Code: Chess strategist ♟️ | Tech gadget explorer 📱 | Algorithm enthusiast 📈*
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jlescarlan11&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
+⚡ Beyond Code: Chess strategist ♟️ | Tech gadget explorer 📱 | Algorithm enthusiast 📈
