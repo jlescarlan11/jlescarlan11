@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 
 ## Let's Connect
 
-![1745425130621740850081662074848](https://github.com/user-attachments/assets/a4f964ce-f5f1-4372-a609-9368ad5af138)(https://john-lester-escarlan-portfolio.vercel.app/)
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
+[![1745425130621740850081662074848](https://github.com/user-attachments/assets/a4f964ce-f5f1-4372-a609-9368ad5af138)](https://john-lester-escarlan-portfolio.vercel.app/)
 
