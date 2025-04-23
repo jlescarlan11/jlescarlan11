@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![1745425130621740850081662074848](https://github.com/user-attachments/assets/a4f964ce-f5f1-4372-a609-9368ad5af138)](https://john-lester-escarlan-portfolio.vercel.app/) 
 
 
-[![17454256272574545965529762072909](https://github.com/user-attachments/assets/ff1bb221-a62f-4982-af31-c0ed7cf7ece5)](https://www.facebook.com/johnlester.escarlan11/)
+[![17454257138956387466900380811571](https://github.com/user-attachments/assets/d604345c-fffc-48b1-97b3-09c9b56137db)](https://www.facebook.com/johnlester.escarlan11/)
 
