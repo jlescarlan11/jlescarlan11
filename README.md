@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ## Let's Connect
 
-![17454249772675240563675999657007](https://github.com/user-attachments/assets/398bb5f8-62fb-402f-beba-7f9133d862b4)
+![1745425130621740850081662074848](https://github.com/user-attachments/assets/a4f964ce-f5f1-4372-a609-9368ad5af138)(https://john-lester-escarlan-portfolio.vercel.app/)
 
