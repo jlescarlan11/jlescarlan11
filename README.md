@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=John%20Lester%20Escarlan&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👨💻 Mathematics-Driven Full-Stack Developer | 🚀 Web Solutions Architect</h1>
+<h1 align="center">👨💻 Full-Stack Developer | 🚀 Web Solutions Architect</h1>
 
 ### 📌 Featured Projects
 [![Pokémon Inventory](https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logo=react&logoColor=white)](https://inventory-application-xlyr.onrender.com/)
@@ -71,4 +71,4 @@ const buildSolution = (problem: ComplexProblem): ElegantCode => {
 }
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jlescarlan11&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
-⚡ Beyond Code: Chess strategist ♟️ | Tech gadget explorer 📱 | Algorithm enthusiast 📈
+⚡ Beyond Code: Algorithm enthusiast 📈
