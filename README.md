@@ -40,6 +40,7 @@ Tech: React · TypeScript · Vite · Tailwind
   <a href="https://github.com/jlescarlan11">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jlescarlan11&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlescarlan11&layout=compact&theme=vision-friendly-dark&hide=php,ruby"/>
+    <img height="165em" src="https://nirzak-streak-stats.vercel.app/?user=jlescarlan11&theme=dark&hide_border=false"/>
   </a>
 </div>
 
