@@ -4,23 +4,6 @@
 
 <h1 align="center">Full-Stack Developer</h1>
 
-### 📌 Featured Projects
-[![Pokémon Inventory](https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logo=react&logoColor=white)](https://inventory-application-xlyr.onrender.com/)
-[![Freedom Wall](https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://web-production-2b2eb.up.railway.app/)
-[![Nutcha Bites](https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://nutcha-bites.vercel.app/)
-
-**Pokémon Inventory Management System**  
-Tech: EJS · Tailwind · Express.js · PostgreSQL  
-» Implemented secure CRUD operations with 40% navigation efficiency improvement
-
-**Freedom Wall Community Platform**  
-Tech: EJS · CSS · JavaScript · Express.js  
-» Developed intuitive interface driving user engagement
-
-**Nutcha Bites E-commerce**  
-Tech: React · TypeScript · Vite · Tailwind  
-» Created responsive shopping experience aligned with business strategies
-
 ### 🛠 Core Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
