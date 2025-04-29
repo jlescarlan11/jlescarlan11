@@ -42,16 +42,5 @@
 - 📊 Exploring data-intensive applications using mathematical modeling
 - 🤝 Open for collaborations on open-source projects
 
-### 💻 Development Mantra
-```typescript
-const buildSolution = (problem: ComplexProblem): ElegantCode => {
-  while (!optimalSolution) {
-    applyMathematics();
-    refactorCode();
-    if (performanceMetrics.improved) deploy();
-  }
-  return cleanArchitecture;
-}
-```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jlescarlan11&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
 ⚡ Beyond Code: Algorithm enthusiast 📈
