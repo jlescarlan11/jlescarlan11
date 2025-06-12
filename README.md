@@ -11,21 +11,6 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🏆 Achievements
-- **DOST JLSS Scholar** (2024)
-- **University Scholar** (2023)
-- **Best in Mathematics & Statistics** (2021)
-- **3× College Scholar** (2022-2023)
-
-### 📈 GitHub Analytics
-<div align="center">
-  <a href="https://github.com/jlescarlan11">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jlescarlan11&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&random=12345"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlescarlan11&layout=compact&theme=vision-friendly-dark&random=12345"/>
-    <img height="165em" src="https://nirzak-streak-stats.vercel.app/?user=jlescarlan11&theme=dark&hide_border=false&random=12345"/>
-  </a>
-</div>
-
 ### 🎓 Education
 **BSc Mathematics** @ University of the Philippines (2022-2026)  
 » Relevant Coursework: Data Structures, Database Systems, Algorithms, Computation Theory
