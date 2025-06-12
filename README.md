@@ -26,6 +26,3 @@
 - 🌱 Mastering advanced TypeScript patterns
 - 📊 Exploring data-intensive applications using mathematical modeling
 - 🤝 Open for collaborations on open-source projects
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jlescarlan11&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
-⚡ Beyond Code: Algorithm enthusiast 📈
