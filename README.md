@@ -21,8 +21,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlescarlan11)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnescarlan@up.edu.ph)
 
-### 🚀 Current Focus
-- 🔭 Building full-stack solutions with React + Express.js + PostgreSQL
-- 🌱 Mastering advanced TypeScript patterns
-- 📊 Exploring data-intensive applications using mathematical modeling
-- 🤝 Open for collaborations on open-source projects
