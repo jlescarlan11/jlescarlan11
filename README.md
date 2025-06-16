@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=John%20Lester%20Escarlan&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Aspiring Full-Stack Developer</h1>
+<h1 align="center">Full-Stack Developer</h1>
 
 ### 🛠 Core Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
