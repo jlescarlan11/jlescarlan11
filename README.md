@@ -1,23 +1,68 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=John%20Lester%20Escarlan&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
-</p>
+![1500x500](https://exhibitions.bristolmuseums.org.uk/japanese-prints/wp-content/uploads/sites/11/2018/12/hokusai-reflection-lake-misaka-Mb4853-600x450.jpg)
 
-<h1 align="center">Full-Stack Developer</h1>
+#
+### About Me:
+- I'm currently interested in DevOps and Software Engineering.
+- 3rd Year Computer Science Student at University of the Philippines.
+- I'm only good in things that interests me.
+##
 
-### 🛠 Core Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<details>
+<summary><b>Tech Stack</b></summary>
+<div align="center">
 
-### 🎓 Education
-**BSc Mathematics** @ University of the Philippines (2022-2026)  
-» Relevant Coursework: Data Structures, Database Systems, Algorithms, Computation Theory
+#### Web Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🌐 Connect With Me
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://john-lester-escarlan-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-lester-escarlan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlescarlan11)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnescarlan@up.edu.ph)
 
+#### Services and Database
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=dark-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+#### Others
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+  <summary><b>Github Stats 🏆</b></summary>
+  <div align="center">
+    <img style="width:317px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlescarlan11&theme=rose_pine&exclude_repo=FPS-Game&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=jlescarlan11&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+  </div>
+
+</details>
+<details>
+  <summary><b>Connect with Me 🙏🏼</b></summary>
+  <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/john-lester-escarlan" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="linkedin-johnlesterescarlan" height="30"/>
+      </a>
+      <a href="https://www.facebook.com/johnlester.escarlan11/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="facebook-johnlesterescarlan" height="30"/>
+      </a>
+      <a href="mailto:jlescarlan11@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="gmail-johnlesterescarlans" height="30"/>
+      </a>
+    </p>
+</details>
+
+##
