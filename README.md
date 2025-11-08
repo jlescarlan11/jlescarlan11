@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img style="width:317px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlescarlan11&theme=rose_pine&exclude_repo=FPS-Game&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=jlescarlan11&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jlescarlan11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlescarlan11&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" width="40%"/><br/>
 </div>
 
 ---
