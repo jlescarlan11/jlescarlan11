@@ -82,7 +82,3 @@
     <img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
-
-<p align="center">
-  <i>"I'm only good at things that interest me."</i>
-</p>
